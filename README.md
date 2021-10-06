@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/taconi/taconi/main/image/computer-illustration.png" width="350" />
+<img align="right" src="https://raw.githubusercontent.com/OthonBreener/OthonBreener/main/computer-illustration.png" width="350" />
 <h1 align="center">
 	✅Bem vindo ao meu GitHub🚀
 </h1>
