@@ -27,6 +27,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%2343853D.svg?&logo=celery&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0000FF?&logo=scrapy&logoColor=wihte)
 
 ### 📦 Databases
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF)
