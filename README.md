@@ -34,7 +34,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-%2307405e.svg?&logo=sqlite&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Sistemas Operacionais
+### 🖥️ Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
