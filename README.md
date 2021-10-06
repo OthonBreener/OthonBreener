@@ -10,7 +10,6 @@
 <br>
 
  ### ✅ Entre em contato! ✉️
-
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white&)](https://www.linkedin.com/in/othon-breener-b66a86140/)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:m.othonbrener123@gmail.com)
  [![Telegram](https://img.shields.io/badge/-Telegram-informational?logo=telegram&logoColor=white)](https://t.me/othonbreener)
@@ -20,15 +19,14 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-
 ### 💻 Ferramentas
 !["Flask](https://img.shields.io/badge/flask%20-%23000.svg?&logo=flask&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-099E10?&logo=scrapy&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white)
-![Pytest]()
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%2343853D.svg?&logo=celery&logoColor=white)
 
 ### 📦 Databases
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF)
@@ -36,15 +34,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Sistemas Operacionais
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 🌱 Estou aprendo
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-3790AB?&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&logo=pandas&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%2343853D.svg?&logo=celery&logoColor=white)
 
 ### ⚡ Habilidades
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&logo=git&logoColor=white)
