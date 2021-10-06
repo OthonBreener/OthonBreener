@@ -38,7 +38,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
 
-### 🌱 Estou aprendo
+### 🌱 Estou aprendendo
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-3790AB?&logo=fastapi&logoColor=white)
 
