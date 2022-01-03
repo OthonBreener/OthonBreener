@@ -5,7 +5,7 @@
 
 ### 👦Sobre mim
 - 👋 Olá, meu nome é Othon Breener, M. S.
-- 💼 Sou graduado em Física pela UFU e atualmente trabalho como desenvolvedor Back-end Python Jr na [Inova Mind](https://inovamind.com.br/)
+- 💼 Sou graduado em Física pela UFU e atualmente trabalho como desenvolvedor Back-end Python Jr na [PontoTel](https://www.pontotel.com.br/)
 - 💬 Sempre em busca de conhecimento e de aprimorar minhas habilidades!
 <br>
 
