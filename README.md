@@ -12,7 +12,6 @@
  ### ✅ Entre em contato! ✉️
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white&)](https://www.linkedin.com/in/othon-breener-b66a86140/)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:m.othonbrener123@gmail.com)
- [![Telegram](https://img.shields.io/badge/-Telegram-informational?logo=telegram&logoColor=white)](https://t.me/othonbreener)
 <hr>
 
 ### 🛠 Linguagens
