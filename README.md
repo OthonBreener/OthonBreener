@@ -20,13 +20,10 @@
 
 ### 💻 Ferramentas
 !["Flask](https://img.shields.io/badge/flask%20-%23000.svg?&logo=flask&logoColor=white)
-![Scrapy](https://img.shields.io/badge/-Scrapy-099E10?&logo=scrapy&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?&logo=plotly&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%2343853D.svg?&logo=celery&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0000FF?&logo=scrapy&logoColor=wihte)
+![FastAPI](https://img.shields.io/badge/-FastAPI-3790AB?&logo=fastapi&logoColor=white)
 
 ### 📦 Databases
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF)
@@ -39,7 +36,10 @@
 
 ### 🌱 Estou aprendendo
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
-![FastAPI](https://img.shields.io/badge/-FastAPI-3790AB?&logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
+![Scrapy](https://img.shields.io/badge/-Scrapy-099E10?&logo=scrapy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?&logo=plotly&logoColor=white)
 
 ### ⚡ Habilidades
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&logo=git&logoColor=white)
