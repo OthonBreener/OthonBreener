@@ -32,22 +32,7 @@
 
 ### 🖥️ Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
-
-### 🌱 Estou aprendendo
-![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
-![Scrapy](https://img.shields.io/badge/-Scrapy-099E10?&logo=scrapy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?&logo=plotly&logoColor=white)
-
-### ⚡ Habilidades
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&logo=docker&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&logo=latex&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?&logo=swagger&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
 
 ### :bulb: Estatísticas gerais
 ![Othon github stats](https://github-readme-stats.vercel.app/api?username=OthonBreener&theme=cobalt&show_icons=true)]
