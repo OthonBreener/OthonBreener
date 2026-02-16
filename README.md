@@ -6,7 +6,7 @@
 ### 👦Sobre mim
 - 👋 Olá, meu nome é Othon Breener, M. S.
 - 💼 Sou graduado em Física pela UFU e atualmente trabalho como Analista de Desenvolvimento Pleno (foco em python) na [PontoTel](https://www.pontotel.com.br/)
-- Matenho o [ToFalando](https://tofalando.com.br/): uma plataforma para auxiliar pessoas com neurodivergências a se comunicar utilizando a tecnológia.
+- Matenho o [ToFalando](https://tofalando.com.br/): uma plataforma para auxiliar pessoas com neurodivergências a se comunicar utilizando a tecnologia.
 - 💬 Sempre em busca de conhecimento e de aprimorar minhas habilidades!
 <br>
 
